@@ -3,26 +3,26 @@ const simpsonslastname =document.getElementById('lastname');
 const simpsonsage =document.getElementById('age');
 
 
-const simpsonsname2= document.getElementById('firstname3');
-const simpsonslastname2 =document.getElementById('lastname3');
-const simpsonsage2 =document.getElementById('age3');
+const simpsonsname2= document.getElementById('firstname2');
+const simpsonslastname2 =document.getElementById('lastname2');
+const simpsonsage2 =document.getElementById('age2');
 
 
-const simpsonsname3= document.getElementById('firstname');
-const simpsonslastname3 =document.getElementById('lastname');
-const simpsonsage3 =document.getElementById('age');
+const simpsonsname3= document.getElementById('firstname3');
+const simpsonslastname3 =document.getElementById('lastname3');
+const simpsonsage3 =document.getElementById('age3');
 
-const simpsonsname4= document.getElementById('firstname');
-const simpsonslastname4 =document.getElementById('lastname');
-const simpsonsage4 =document.getElementById('age');
+const simpsonsname4= document.getElementById('firstname4');
+const simpsonslastname4 =document.getElementById('lastname4');
+const simpsonsage4 =document.getElementById('age4');
 
-const simpsonsname5= document.getElementById('firstname');
-const simpsonslastname5 =document.getElementById('lastname');
-const simpsonsage5 =document.getElementById('age');
+const simpsonsname5= document.getElementById('firstname5');
+const simpsonslastname5 =document.getElementById('lastname5');
+const simpsonsage5 =document.getElementById('age5');
 
-const simpsonsname6= document.getElementById('firstname2');
-const simpsonslastname6 =document.getElementById('lastname2');
-const simpsonsage6 =document.getElementById('age2');
+const simpsonsname6= document.getElementById('firstname6');
+const simpsonslastname6 =document.getElementById('lastname6');
+const simpsonsage6 =document.getElementById('age6');
 
 const simpsonsname7= document.getElementById('firstname7');
 const simpsonslastname7 =document.getElementById('lastname7');
